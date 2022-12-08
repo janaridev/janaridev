@@ -18,7 +18,7 @@
 </p>
 
 <div align="center"> 
-  <a href = "mailto:rdjanari1707@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "rdjanari1707@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/csharpjanari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
@@ -72,8 +72,6 @@
   </div>
   <br>
   <br>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=csharpjanari&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
