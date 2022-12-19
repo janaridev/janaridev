@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cs,github,css,html" /><br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,bots,dotnet,vscode" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,docker,bots,dotnet,vscode" />
 
   </a>
 </p>
@@ -37,7 +37,7 @@
 <h4>Learning</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,mongodb,js,react," />
+    <img src="https://skillicons.dev/icons?i=kubernetes,azure,mongodb,js,react,ts" />
   </a>
 </p>
 <hr>
