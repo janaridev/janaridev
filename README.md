@@ -37,7 +37,7 @@
 <h4>Learning</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,azure,js,react,ts,mongodb,redis,nginx" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,azure,js,react,ts,mysql,mongodb,redis,nginx" />
   </a>
 </p>
 <hr>
