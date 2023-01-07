@@ -84,8 +84,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/csharpjanari/User_Sign-Up-In-_API" title="Identity"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=csharpjanari&repo=User_Sign-Up-In-_API&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/csharpjanari/MyPizzeria" title="Pizza Ordering"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=csharpjanari&repo=MyPizzeria&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/csharpjanari/MangoRestaurant" title="WebStore"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=csharpjanari&repo=MangoRestaurant&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/csharpjanari/NL_Store" title="Telegram Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=csharpjanari&repo=NL_Store&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
