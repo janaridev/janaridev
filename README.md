@@ -30,11 +30,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cs,github,css,html" /><br>
     <img src="https://skillicons.dev/icons?i=visualstudio,docker,bots,dotnet,vscode" />
-
   </a>
 </p>
-<br>
-<h4>Learning</h4>
+<b><h3 align="center">Learning</h3></b>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes,azure,js,react,ts,mysql,mongodb,redis,nginx" />
