@@ -13,7 +13,7 @@
   <br>
   Hi, I'm Raul Janari, Backend Developer/Coder 🥷 and Learner 👨‍💻
   <br>
-  💻 I love to learn algorythms & data structure.
+  💻 I love to learn algorithms & design patterns.
   <br>
 </p>
 
