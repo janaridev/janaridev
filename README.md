@@ -28,13 +28,13 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,js,ts,github,css,html,aws" /><br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,react,docker,bots,dotnet,nginx,mongodb,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,cs,js,ts,linux,aws,github" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,docker,bots,react,dotnet,rabbitmq,nginx,mongodb,githubactions,postgres,prisma" />
   </a>
 </p>
 <b><h3 align="center">📚 Learning 📚</h3></b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,go,cpp" />
   </a>
 </p>
