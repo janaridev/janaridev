@@ -11,9 +11,9 @@
 <br>  
 <p align="center">
   <br>
-  Hi, I'm Raul Janari, Backend Developer/Coder 🥷 and Learner 👨‍💻
+  Hi, I'm Raul Janari, mainly Backend Developer 🥷 and same time Learner 👨‍💻
   <br>
-  💻 I love to learn algorithms & design patterns.
+  💻 I like to solve programming problems in free time.
   <br>
 </p>
 
