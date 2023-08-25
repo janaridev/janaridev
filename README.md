@@ -35,6 +35,6 @@
 <b><h3 align="center">📚 Learning 📚</h3></b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
 </p>
