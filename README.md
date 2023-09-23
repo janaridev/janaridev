@@ -6,7 +6,6 @@
   </a>
 </h1>
 <br>
-<p align="center"> <img alt="Coding" width="370" src="https://media.tenor.com/oTeBa4EVepMAAAAM/business-cat-working.gif"> </p>
 
 <br>  
 <p align="center">
