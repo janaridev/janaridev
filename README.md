@@ -31,9 +31,3 @@
     <img src="https://skillicons.dev/icons?i=mysql,docker,bots,react,dotnet,rabbitmq,nginx,mongodb,githubactions,postgres,prisma" />
   </a>
 </p>
-<b><h3 align="center">📚 Learning 📚</h3></b>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp" />
-  </a>
-</p>
