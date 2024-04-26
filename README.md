@@ -10,7 +10,7 @@
 <br>  
 <p align="center">
   <br>
-  Hi, I'm Usama, mainly Backend Developer, and same time Learner
+  Hi, I'm Usama, Backend Developer, and same time Learner
   <br>
   I like to solve programming problems in free time. 💻
   <br>
