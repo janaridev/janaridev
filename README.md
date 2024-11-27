@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=csharpjanari&label=Profile%20views&color=0e75b6&style=flat" alt="csharpjanari" />
+<img src="https://komarev.com/ghpvc/?username=janaridev&label=Profile%20views&color=0e75b6&style=flat" alt="janaridev" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 <br>  
 <p align="center">
   <br>
-  Hi, I'm Usama, Backend Developer, and same time Learner
+  Hi, I'm Raul, Go Developer, and same time Learner
   <br>
   I like to solve programming problems in free time. 💻
   <br>
@@ -27,7 +27,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,linux,ts" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,docker,rabbitmq,nginx,mongodb,githubactions,postgres" />
+    <img src="https://skillicons.dev/icons?i=golang,linux,gitlab" /><br>
+    <img src="https://skillicons.dev/icons?i=redis,docker,rabbitmq,nginx,mongodb,kafka,githubactions,postgres" />
   </a>
 </p>
